@@ -1,25 +1,10 @@
 {
   "streams": [
     {
-      "title": "my first stream",
-      "description": "it is very good",
-      "id": 1
-    },
-    {
-      "title": "create stream",
-      "description": "create new stream",
-      "id": 2
-    },
-    {
       "title": "stream",
       "description": "it is very good stream",
-       "userId": null,
+      "userId": null,
       "id": 3
-    },
-    {
-      "title": "edit stream",
-      "description": "edit stream",
-      "id": 4
     },
     {
       "title": "sdfgh",
@@ -28,8 +13,8 @@
       "id": 5
     },
     {
-      "title": "hy",
-      "description": "my stream",
+      "title": "my first stream",
+      "description": "stream",
       "id": 6
     }
   ]
